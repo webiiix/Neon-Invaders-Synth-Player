@@ -1,0 +1,6 @@
+{
+  "name": "Neon Invaders & Synth Player",
+  "description": "An 80s vaporwave Space Invaders game integrated with a synth-wave music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
